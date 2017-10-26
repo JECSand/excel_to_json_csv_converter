@@ -1,0 +1,7 @@
+"Abbreviation","Statement","Type","Notes","Type2","Notes2","Type3","Notes3","Typr4"
+"MC","What is 2+2?","4.0","correct","3.0","incorrect","","",""
+"MA","What C datatypes are 8 bits? (assume i386)","int","","float","","double","","char"
+"TF","Bagpipes are awesome.","true","","","","","",""
+"ESS","How have the original Henry Hornbostel buildings influenced campus architecture and design in the last 30 years?","","","","","","",""
+"ORD","Rank the following in their order of operation.","Parentheses","Exponents","Division","Addition","","",""
+"FIB","The student activities fee is","95.0","dollars for students enrolled in","19.0","units or more,","","",""

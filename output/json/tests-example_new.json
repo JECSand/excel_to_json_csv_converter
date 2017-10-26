@@ -1,0 +1,214 @@
+{
+    "Format Abbr.": [
+        {
+            "Abbreviation": "MC", 
+            "Question Type": "Multiple Choice"
+        }, 
+        {
+            "Abbreviation": "MA", 
+            "Question Type": "Multiple Answer"
+        }, 
+        {
+            "Abbreviation": "TF", 
+            "Question Type": "True/False"
+        }, 
+        {
+            "Abbreviation": "ESS", 
+            "Question Type": "Essay"
+        }, 
+        {
+            "Abbreviation": "ORD", 
+            "Question Type": "Ordering"
+        }, 
+        {
+            "Abbreviation": "MAT", 
+            "Question Type": "Matching"
+        }, 
+        {
+            "Abbreviation": "FIB", 
+            "Question Type": "Fill in the Blank"
+        }, 
+        {
+            "Abbreviation": "FIL", 
+            "Question Type": "File response"
+        }, 
+        {
+            "Abbreviation": "NUM", 
+            "Question Type": "Numeric Response"
+        }, 
+        {
+            "Abbreviation": "SR", 
+            "Question Type": "Short response"
+        }, 
+        {
+            "Abbreviation": "OP", 
+            "Question Type": "Opinion"
+        }, 
+        {
+            "Abbreviation": "FIB_PLUS", 
+            "Question Type": "Multiple Fill in the Blank"
+        }, 
+        {
+            "Abbreviation": "JUMBLED_SENTENCE", 
+            "Question Type": "Jumbled Sentence"
+        }, 
+        {
+            "Abbreviation": "QUIZ_BOWL", 
+            "Question Type": "Quiz Bowl"
+        }
+    ], 
+    "Readme": [
+        {
+            "parkingTime": "14:01:00", 
+            "parkingDate": "10/22/2011", 
+            "FirstName": "Karl", 
+            "Time": "14:08:00", 
+            "Date": "11/13/2016", 
+            "LastName": "Client", 
+            "Decimal": 0.02, 
+            "DateTime": "11/13/2016 14:08:00", 
+            "ID": "001", 
+            "Number": 3.0
+        }, 
+        {
+            "parkingTime": "13:12:13", 
+            "parkingDate": "09/02/2012", 
+            "FirstName": "Jim", 
+            "Time": "15:21:00", 
+            "Date": "01/29/2015", 
+            "LastName": "Customer", 
+            "Decimal": 1.1, 
+            "DateTime": "11/14/2016 14:01:00", 
+            "ID": "002", 
+            "Number": 6.0
+        }, 
+        {
+            "parkingTime": "15:23:34", 
+            "parkingDate": "04/03/2008", 
+            "FirstName": "Bob", 
+            "Time": "17:28:00", 
+            "Date": "04/21/2016", 
+            "LastName": "Henries", 
+            "Decimal": 2.2, 
+            "DateTime": "11/15/2016 14:01:00", 
+            "ID": "003", 
+            "Number": 10.0
+        }, 
+        {
+            "parkingTime": "23:13:22", 
+            "parkingDate": "01/05/2007", 
+            "FirstName": "Steve", 
+            "Time": "12:05:00", 
+            "Date": "02/04/2010", 
+            "LastName": "Hastings", 
+            "Decimal": 4.5, 
+            "DateTime": "11/16/2016 14:01:00", 
+            "ID": "004", 
+            "Number": 12.0
+        }, 
+        {
+            "parkingTime": "14:22:00", 
+            "parkingDate": "02/05/2018", 
+            "FirstName": "Jan", 
+            "Time": "13:04:00", 
+            "Date": "06/28/2015", 
+            "LastName": "Frost", 
+            "Decimal": 2.2, 
+            "DateTime": "11/17/2016 14:01:00", 
+            "ID": "005", 
+            "Number": 9.0
+        }, 
+        {
+            "parkingTime": "11:12:56", 
+            "parkingDate": "11/14/2015", 
+            "FirstName": "Al", 
+            "Time": "15:20:00", 
+            "Date": "03/02/2008", 
+            "LastName": "Hampton", 
+            "Decimal": 0.008, 
+            "DateTime": "11/18/2016 14:01:00", 
+            "ID": "006", 
+            "Number": 11.0
+        }, 
+        {
+            "parkingTime": "13:10:00", 
+            "parkingDate": "11/12/2011", 
+            "FirstName": "James", 
+            "Time": "16:11:00", 
+            "Date": "04/05/2016", 
+            "LastName": "Bond", 
+            "Decimal": 7.11, 
+            "DateTime": "11/19/2016 14:01:00", 
+            "ID": "007", 
+            "Number": 4.0
+        }
+    ], 
+    "Example Test": [
+        {
+            "Abbreviation": "MC", 
+            "Typr4": null, 
+            "Statement": "What is 2+2?", 
+            "Notes3": null, 
+            "Notes2": "incorrect", 
+            "Notes": "correct", 
+            "Type": 4.0, 
+            "Type3": null, 
+            "Type2": 3.0
+        }, 
+        {
+            "Abbreviation": "MA", 
+            "Typr4": "char", 
+            "Statement": "What C datatypes are 8 bits? (assume i386)", 
+            "Notes3": null, 
+            "Notes2": null, 
+            "Notes": null, 
+            "Type": "int", 
+            "Type3": "double", 
+            "Type2": "float"
+        }, 
+        {
+            "Abbreviation": "TF", 
+            "Typr4": null, 
+            "Statement": "Bagpipes are awesome.", 
+            "Notes3": null, 
+            "Notes2": null, 
+            "Notes": null, 
+            "Type": "true", 
+            "Type3": null, 
+            "Type2": null
+        }, 
+        {
+            "Abbreviation": "ESS", 
+            "Typr4": null, 
+            "Statement": "How have the original Henry Hornbostel buildings influenced campus architecture and design in the last 30 years?", 
+            "Notes3": null, 
+            "Notes2": null, 
+            "Notes": null, 
+            "Type": null, 
+            "Type3": null, 
+            "Type2": null
+        }, 
+        {
+            "Abbreviation": "ORD", 
+            "Typr4": null, 
+            "Statement": "Rank the following in their order of operation.", 
+            "Notes3": null, 
+            "Notes2": "Addition", 
+            "Notes": "Exponents", 
+            "Type": "Parentheses", 
+            "Type3": null, 
+            "Type2": "Division"
+        }, 
+        {
+            "Abbreviation": "FIB", 
+            "Typr4": null, 
+            "Statement": "The student activities fee is", 
+            "Notes3": null, 
+            "Notes2": "units or more,", 
+            "Notes": "dollars for students enrolled in", 
+            "Type": 95.0, 
+            "Type3": null, 
+            "Type2": 19.0
+        }
+    ]
+}
